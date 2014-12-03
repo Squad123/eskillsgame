@@ -5,6 +5,7 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>squad123eskillsgame</name>
+<description>This Eskimos game was developed by squad123 for itgirls 2014!</description>
 		<gap:platform name="android" />
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
